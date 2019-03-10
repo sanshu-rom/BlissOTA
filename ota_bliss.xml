@@ -10,7 +10,7 @@
       <ChangelogUrl
         id="changelogs"
         title="Changelogs"
-        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/changelog/remix_arm64_ab.txt</ChangelogUrl>
+        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/BlissOTA/bliss/changelog/bliss_arm64_ab.txt</ChangelogUrl>
       <RomMirrorUrl
         id="romirror"
         title="weibo"
@@ -18,7 +18,7 @@
       <PaypalUrl
         id="donation"
         title="Donation"
-        description="Donate To The Developer">https://github.com/sanshu-rom/RemixOTA/blob/remix/donation/README.md</PaypalUrl>
+        description="Donate To The Developer">https://github.com/sanshu-rom/BlissOTA/blob/bliss/donation/README.md</PaypalUrl>
     </phhgsi_arm64_ab>
   </Sanshu>
 </SlimOTA>
