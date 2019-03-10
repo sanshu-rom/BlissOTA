@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <Sanshu>
+    <phhgsi_arm64_ab>
+      <Filename>RR-P-v7.0.0-20190310--Unofficial----大姨妈式更新</Filename>
+      <RomUrl
+        id="rom"
+        title="Rom"
+        description="Download The Latest Build">https://pan.baidu.com/s/1l9IMH0cqXHGCvilnRiwu4w</RomUrl>
+      <ChangelogUrl
+        id="changelogs"
+        title="Changelogs"
+        description="Check Out The Latest Changes">https://raw.githubusercontent.com/sanshu-rom/RemixOTA/remix/changelog/remix_arm64_ab.txt</ChangelogUrl>
+      <RomMirrorUrl
+        id="romirror"
+        title="weibo"
+        description="Visit The dospy">http://weibo.com/linsanshu</RomMirrorUrl>
+      <PaypalUrl
+        id="donation"
+        title="Donation"
+        description="Donate To The Developer">https://github.com/sanshu-rom/RemixOTA/blob/remix/donation/README.md</PaypalUrl>
+    </phhgsi_arm64_ab>
+  </Sanshu>
+</SlimOTA>
