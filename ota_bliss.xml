@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <phhgsi_arm64_ab>
-      <Filename>Bliss-v11.5--UNOFFICIAL-20190311-by-SanShu----诈尸式更新</Filename>
+      <Filename>Bliss-v11.5--UNOFFICIAL-20190417-by-SanShu----常规月更</Filename>
       <RomUrl
         id="rom"
         title="Rom"
